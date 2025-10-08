@@ -222,7 +222,6 @@ pip install pytest pytest-cov
 python fastpusher/examples.py
 ```
 
-```
 
 ## 🤝 Contributing
 
