@@ -1,2 +1,22 @@
 # Project exclude paths
-/.venv/
+/venv/
+*.local
+*.env
+*.env.*
+.idea/**
+**/__pycache__/
+*.pyc
+
+# private and public keys
+*.pem
+
+# FastAPI / Uvicorn / Gunicorn
+*.pid
+
+# MongoDB dump fayllari
+dump/
+*.bson
+*.json
+
+# Pre-commit
+.pre-commit-config.yaml.backup
