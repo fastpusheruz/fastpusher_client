@@ -240,12 +240,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Rustamov Javohir** - [rustamovj399@gmail.com](mailto:rustamovj366@gmail.com)
+- **Rustamov Javohir** - [rustamovj366@gmail.com](mailto:rustamovj366@gmail.com)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/javohir/fastpusher)
-- [Issue Tracker](https://github.com/javohir/fastpusher/issues)
+- [GitHub Repository](https://github.com/fastpusheruz/fastpusher_client)
+- [Issue Tracker](https://github.com/fastpusheruz/fastpusher_client/issues)
 - [PyPI Package](https://pypi.org/project/fastpusher/)
 
 ## 📝 Changelog
